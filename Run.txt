@@ -1,0 +1,1 @@
+For sending Email u have to enable less secure app from which Email_id u r sending mail
